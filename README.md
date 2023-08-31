@@ -24,4 +24,4 @@ The cosmetics industry is characterized by fierce competition and ever-changing 
 - The company should give discount to best partronizing customers in their subsequent partronage
 
 
-Let us embark on this journey of exploration, analysis, and strategic decision-making, as we chart a course that will undoubtedly shape the digital future of the Shine Cosmetic Company.
+Let us embark on this journey of exploration, analysis, and strategic decision-making, as we chart a course that will undoubtedly shape the digital future of the Shine Cosmetic Company [here](Yearly_Amount_Spent_Linear_Regression1).
