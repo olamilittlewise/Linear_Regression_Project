@@ -1,4 +1,4 @@
-# Yearly_Amount_Spent_Linear_Regression
+# Linear Regression Project
 
 Regression_Analysis-Yearly_Amount_Spent-and-Time_on_App,Time on WebsiteLength_of_Membership,Avg_Session_Length,
 
